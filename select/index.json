@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Clean",
+  "base_artist": "Incubus",
+  "createdAt": "2026-02-18T15:55:30.561439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clean Getaway",
+      "artist": "Caroline Spence",
+      "has_synced": true,
+      "path": "select/01_Clean_Getaway_Caroline_Spence.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clean Living",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/02_Clean_Living_RJD2.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Clean Living",
+      "artist": "RJD2",
+      "has_synced": true,
+      "path": "select/03_Clean_Living_RJD2.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "June (clean)",
+      "artist": "RJD2 feat. Copywrite",
+      "has_synced": false,
+      "path": "select/04_June_(clean)_RJD2_feat._Copywrite.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Afraid of Americans - Nine Inch Nails V1 Clean Edit",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/05_I'm_Afraid_of_Americans_-_Nine_Inch_Nails_V1_Clean_Edit_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Afraid Of Americans (Nine Inch Nails V1 Clean Edit)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_I'm_Afraid_Of_Americans_(Nine_Inch_Nails_V1_Clean_Edit)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ride (Echoes Remix Clean Radio)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/07_Ride_(Echoes_Remix_Clean_Radio)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Till The Wheels Fall Off - Main Version - Clean Version",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/08_Till_The_Wheels_Fall_Off_-_Main_Version_-_Clean_Version_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn It Up (remix) / Fire It Up (clean)",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/09_Turn_It_Up_(remix)___Fire_It_Up_(clean)_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Clean (feat. Lupe Fiasco)",
+      "artist": "Nikki Jean feat. Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/10_Mr._Clean_(feat._Lupe_Fiasco)_Nikki_Jean_feat._Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dance Yrself Clean",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/11_Dance_Yrself_Clean_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fresh & Clean",
+      "artist": "Letherette",
+      "has_synced": false,
+      "path": "select/12_Fresh_&_Clean_Letherette.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ni**a Comin' Clean",
+      "artist": "La Chat",
+      "has_synced": false,
+      "path": "select/13_Ni_a_Comin'_Clean_La_Chat.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nigga Comin' Clean",
+      "artist": "La Chat",
+      "has_synced": false,
+      "path": "select/14_Nigga_Comin'_Clean_La_Chat.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Burn It Clean",
+      "artist": "Mudhoney",
+      "has_synced": false,
+      "path": "select/15_Burn_It_Clean_Mudhoney.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hit 'em wit da Hee (feat. Lil' Kim & Mocha) (Clean)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/16_Hit_'em_wit_da_Hee_(feat._Lil'_Kim_&_Mocha)_(Clean)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "U.R.A.Q.T (Clean)",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/17_U.R.A.Q.T_(Clean)_M.I.A..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clean",
+      "artist": "Incubus",
+      "has_synced": false,
+      "path": "select/pl_01_Clean_Incubus.txt"
+    }
+  ]
+}
